@@ -1,0 +1,1 @@
+//Aqui van las declaraciones de las funciones
